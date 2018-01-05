@@ -4,4 +4,5 @@ function forLoop(array){
       break array.push(`I am ${i} strange loops.`);
     }
   }
+  return array;
 }
